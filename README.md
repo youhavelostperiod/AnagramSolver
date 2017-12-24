@@ -2,7 +2,7 @@
 A multi word anagram solver
 
 # Build
-	git clone https://github.com/parekhparth/AnagramSolver.git
+	git clone https://github.com/youhavelostperiod/AnagramSolver.git
 
 	cd AnagramSolver
 
