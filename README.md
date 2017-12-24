@@ -1,5 +1,5 @@
 # Anagram Solver
-A multi word anagram solver
+A multi word anagram solver, specifically for the names of pokemon.
 
 # Build
 	git clone https://github.com/youhavelostperiod/AnagramSolver.git
